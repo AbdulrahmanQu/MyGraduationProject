@@ -3,6 +3,6 @@
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
 
-<img src="FinalProject.jpeg"
+<img src="FinalProject.jpg"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
